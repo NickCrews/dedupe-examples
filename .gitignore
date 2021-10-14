@@ -11,6 +11,7 @@ logfile
 .#*
 *.*#
 *.json
+!devcontainer.json
 examples/output/*.*
 examples/csv_example/csv_example_output.csv
 *output.csv
